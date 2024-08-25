@@ -1,4 +1,5 @@
 # ICPC-PTIT-2024
+(đang tiếp tục cập nhật...)
 ### Contributor
 + [PearPn15](https://github.com/PearPn15)
 + [StellarHold170NT](https://github.com/stellarhold170NT)
